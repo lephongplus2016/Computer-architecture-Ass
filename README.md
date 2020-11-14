@@ -1,5 +1,4 @@
-# Computer-architecture-Ass
-in MIPS architecture
+
 # Computer-architecture-Ass
 in MIPS architecture
 ## Yêu cầu
